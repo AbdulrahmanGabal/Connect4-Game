@@ -1,2 +1,3 @@
 # Connect4-Game
- "Connect 4" game using C++
+A simple connect 4 console game for practice C++
+
